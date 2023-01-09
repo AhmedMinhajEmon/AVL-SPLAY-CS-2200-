@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_5_AVL_SPLAY_Trees", "Lab_5_AVL_SPLAY_Trees\Lab_5_AVL_SPLAY_Trees.vcxproj", "{25DC81DD-99DD-464E-BC3A-48694F7435AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DC81DD-99DD-464E-BC3A-48694F7435AA}.Debug|x64.ActiveCfg = Debug|x64
+		{25DC81DD-99DD-464E-BC3A-48694F7435AA}.Debug|x64.Build.0 = Debug|x64
+		{25DC81DD-99DD-464E-BC3A-48694F7435AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{25DC81DD-99DD-464E-BC3A-48694F7435AA}.Debug|x86.Build.0 = Debug|Win32
+		{25DC81DD-99DD-464E-BC3A-48694F7435AA}.Release|x64.ActiveCfg = Release|x64
+		{25DC81DD-99DD-464E-BC3A-48694F7435AA}.Release|x64.Build.0 = Release|x64
+		{25DC81DD-99DD-464E-BC3A-48694F7435AA}.Release|x86.ActiveCfg = Release|Win32
+		{25DC81DD-99DD-464E-BC3A-48694F7435AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DBA20D9-2220-4556-9C0A-F6497C3DC0C2}
+	EndGlobalSection
+EndGlobal
